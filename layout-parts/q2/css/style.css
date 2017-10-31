@@ -1,5 +1,43 @@
 @charset "UTF-8";
 
 /* 回答はここに書いてね */
+.mainbox{
+  width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #eff3f4
+}
 
+.photo1{
+  float: left;
+  margin: 2px 20px 10px 0px;
+}
+.photo2{
+  float: right;
+  margin: 2px 0px 10px 20px;
+}
+
+.message1{
+  font-size: 18px;
+  line-height: 22px;
+  word-break: break-all;
+}
+
+.message2{
+  font-size: 18px;
+  line-height: 22px;
+  word-break: break-all;
+}
+
+.message3{
+  font-size: 18px;
+  line-height: 22px;
+  word-break: break-all;
+}
+
+.message4{
+  font-size: 18px;
+  line-height: 22px;
+  word-break: break-all;
+}
 /* 回答はここに書いてね */
