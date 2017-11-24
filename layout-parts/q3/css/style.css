@@ -1,5 +1,23 @@
 @charset "UTF-8";
 
 /* 回答はここに書いてね */
+table,th,td{
+  table-layout: fixed;
+  width: 100%;
+  text-align: center;
+  border: solid #dedede 1px;
+  padding: 10px;
+}
+th {
+  border: solid #dedede 1px;
+  background-color: #2244aa;
+  color: #fff;
+}
+tr:nth-child(5){
+  border-bottom: dashed #000 2px;
+}
 
+tr:nth-child(odd){
+  background-color: #ecf1f2
+}
 /* 回答はここに書いてね */
